@@ -7,6 +7,11 @@ from player import *
 
 def battle():
 
+	""" The use of this function is to loop a battle encounter until one of 
+		the parties involved is dead. It gives the player their options and 
+		runs different functions depending on what they choose.
+
+	"""
 	while player_stats["health"] > 0 and enemy_stats["health"] > 0:
 
 		print("What would you like to do? You can:")
@@ -15,10 +20,9 @@ def battle():
 		if x == "attack" or "Attack":
 			compute_turn_damage()
 
-
 def compute_turn_damage():
 	
-	""" The user of this function is to calculate the events of a turn 
+	""" The use of this function is to calculate the events of a turn 
 		where the player attacks the enemy. It calculates how much
 		damage is dealt to the player and the enemy	that they are fighting,
 		and awards experience to the player	accordingly. It then prints
