@@ -5,14 +5,14 @@ import random
 
 # chance of escape is dependent on players current health and is lower the lower the health so that game is not too easy.
 
-def escape_dependent_on_health(health,chance_of_escape):
+def escape_dependent_on_health(player_stats,chance_of_escape):
 	
-
+for i in player_stats["health"]
 		
-	if health >= 75:
+	if i >= 75:
 		chance_of_escape = 40
 		
-	elif health >= 50:
+	elif i >= 50:
 		chance_of_escape = 30
 		
 	else:
