@@ -30,8 +30,8 @@ and earn a promotion.
 
 From your knowledge, Space Pirates have a lot of health 
 as they have replaced large portions of their bodies with crude 
-cybernetics after grevious injuries. However they don't hit hard 
-due to the poor quality of the cyberlimbs."""
+cybernetics after grievous injuries. However, they don't hit hard 
+due to the poor quality of the cyber limbs."""
 }
 
 enemy_pirate_armsman = {
@@ -45,14 +45,14 @@ enemy_pirate_armsman = {
 Their curious name comes from the heavy weapon systems that 
 replace their previously human arms in an attempt to bring 
 anti-ship weaponry onto a more portable platform. 
-Most Armsmen underwent sugery without their consent and 
+Most Armsmen underwent surgery without their consent and 
 can only take their rage out on their victims, or you for that matter.
 
 
 From your knowledge, Space Pirates have a lot of health 
 as they have replaced large portions of their bodies with crude 
-cybernetics after grevious injuries. However they don't hit hard 
-due to the poor quality of the cyberlimbs."""
+cybernetics after grievous injuries. However they don't hit hard 
+due to the poor quality of the cyber limbs."""
 }
 
 enemy_pirate_ravager = {
@@ -73,8 +73,8 @@ and vicious close range weapons.
 
 From your knowledge, Space Pirates have a lot of health 
 as they have replaced large portions of their bodies with crude 
-cybernetics after grevious injuries. However they don't hit hard 
-due to the poor quality of the cyberlimbs."""
+cybernetics after grievous injuries. However, they don't hit hard 
+due to the poor quality of the cyber limbs."""
 }
 
 enemy_pirate_lord = {
@@ -93,7 +93,7 @@ an example out of you, to demonstrate to his subordinates
 that no one stands in the way of a pirate legion
 
 This fight is no joke. Standing in front of you is an assailant 
-of immense fortitude and power. His immense stature augemented with cybertechnology 
+of immense fortitude and power. His immense stature augmented with cyber technology 
 far more powerful than you have encountered on any of his whelps before. 
 His mere presence causes cold sweat to pour down your face and his voice 
 booms like a thousand drums beating in unison. This will not be an easy 
